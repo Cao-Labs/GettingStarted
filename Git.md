@@ -33,7 +33,7 @@ This is how you will get the code onto your machine.
 ### Contributing to the code
 
 1. Write your code
-    1. Any time you want to see what can be put into the repository, type `git status`
+    1. Any time you want to see what can be put into the repository, type `git status` <br /> 
     **Output**
     ```
     (base) > $ git status                                                                                 [±main ✓]
